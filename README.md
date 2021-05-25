@@ -14,7 +14,8 @@ Originally, APRP method is used to attribute the change in SW fluxes at TOA (Top
 
 Here, I extend the original APRP method for TOA to the surface, by using the one-layer radiation model.
 
-albedo.m and incident_sw_ratio.m have to be in the same path with aprp_extension_hjkim.m for use the aprp function
+albedo.m and incident_sw_ratio.m have to be in the same path with aprp_extension_hjkim.m to use the aprp function
+
 Note that the variations of one-layer radiation model are possible with function argument "flag_model", "ar", "rr".
 Refer to Appendix A of below paper and attached PDF for the detailed explanation.
 
