@@ -1,6 +1,8 @@
 # Extension-of-APRP-method
 Extension of Approximate Partial Radiative Perturbation (APRP) method
 
+Programming language : matlab
+
 Field : climate science
 
 Main purpose : Decomposition of radiative flux changes in GCMs (General Circulation Models)
@@ -10,7 +12,7 @@ Originally, APRP method is used to attribute the change in SW fluxes at TOA (Top
 
 Here, I extend the original APRP method for TOA to the surface, by using the one-layer radiation model.
 
-Note that the variations of one-layer radiation model is possible with variable "flag_model", "ar", "rr".
+Note that the variations of one-layer radiation model are possible with function argument "flag_model", "ar", "rr".
 Refer to Appendix A of below paper and attached PDF for the detailed explanation.
 [APRP_extension.pdf](https://github.com/hanjunkim0617/Extension-of-APRP-method/files/6536195/APRP_extension.pdf)
 
