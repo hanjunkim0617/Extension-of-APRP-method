@@ -2,6 +2,7 @@
 Extension of Approximate Partial Radiative Perturbation (APRP) method
 
 Field : climate science
+
 Main purpose : Decomposition of radiative flux changes in GCMs (General Circulation Models)
 
 Originally, APRP method is used to attribute the change in SW fluxes at TOA (Top Of Atmosphere) to the change in surface albedo, cloud properties, and non-cloud properties.
