@@ -15,6 +15,7 @@ Refer to Appendix A of below paper and attached PDF for the detailed explanation
 [APRP_extension.pdf](https://github.com/hanjunkim0617/Extension-of-APRP-method/files/6536195/APRP_extension.pdf)
 
 Kim et al. 2021 (in preparation):
+
 Please cite this paper when you are using the code for publication.
 
 Hanjun Kim
