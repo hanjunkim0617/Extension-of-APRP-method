@@ -20,5 +20,6 @@ Kim et al. 2021 (in preparation):
 
 Please cite this paper when you are using the code for publication.
 
-Hanjun Kim
+Best regards
+- Hanjun Kim
 
