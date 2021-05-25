@@ -14,12 +14,15 @@ Here, I extend the original APRP method for TOA to the surface, by using the one
 
 Note that the variations of one-layer radiation model are possible with function argument "flag_model", "ar", "rr".
 Refer to Appendix A of below paper and attached PDF for the detailed explanation.
-[APRP_extension.pdf](https://github.com/hanjunkim0617/Extension-of-APRP-method/files/6536195/APRP_extension.pdf)
 
-Kim et al. 2021 (in preparation):
+- [APRP_extension.pdf](https://github.com/hanjunkim0617/Extension-of-APRP-method/files/6536195/APRP_extension.pdf)
+
+- Kim et al. 2021 (in preparation):
 
 Please cite this paper when you are using the code for publication.
 
+
 Best regards
-- Hanjun Kim
+
+Hanjun Kim
 
